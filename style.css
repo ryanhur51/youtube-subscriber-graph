@@ -1,0 +1,12 @@
+@import url('https://fonts.cdnfonts.com/css/youtube-sans');
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'YouTube Sans', sans-serif;;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 2px 4px 6px rgb(153, 153, 153);
+}
